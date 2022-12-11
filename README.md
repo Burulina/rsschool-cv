@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Burulina.github.io/rsschool-cv/cv
