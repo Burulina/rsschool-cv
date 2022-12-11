@@ -12,6 +12,7 @@
 - Jira, Easy Redmine
 - Git (Git Hub)
 - CI/CD: GitHub actions
+
 ### Soft skills:
 - Analytical thinking
 - Ability to multi-task 
@@ -19,6 +20,7 @@
 - Flexibility
 - Time management
 - Self-motivation
+
 ### Code example:
 **Codewars Task:**
 *Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.*  
